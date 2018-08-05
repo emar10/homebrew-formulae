@@ -1,6 +1,6 @@
 cask 'lunadisplay' do
     version :latest
-    sha256 :nocheck
+    sha256 :no_check
 
     url 'https://s3.lunadisplay.com/downloads/LunaDisplay.zip'
     name 'Luna Display'
